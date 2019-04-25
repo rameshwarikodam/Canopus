@@ -1,0 +1,35 @@
+label:hover {
+    color: #45ab78;
+  }
+  span {
+    padding-left: 150px;
+    font-size: 12px;
+  }
+  .Paper {
+      width: 350px;
+      align:center;
+      margin-top: 10%;
+      margin-left:60%;
+      text-align: center;
+      background-color:#189D78,!important;
+      color:#123C69;
+      border-color: #123C69;
+    }
+    .Header {
+        margin-top: -15px;
+        width: 300px;
+        margin-left:7%;
+        padding-left: 155;
+        height: 60px;    
+        padding-top: 14px;
+        text-align: center;
+        font-size: 25px;
+      border-color: #123C69;
+        background-color:#123C69, important;
+       text-align:center;
+    }
+    text {
+      color:yellowgreen;
+      text-align:center;
+    }
+   
